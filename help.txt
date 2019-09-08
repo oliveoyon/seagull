@@ -1,0 +1,16 @@
+book member types
+
+
+book_editor Editor
+book_referee Referee
+book_advisor Advisor
+book_ethics_member Ethics Member
+
+
+Editor ==  all
+Referee== Without 1 & 4
+Advisor== 6, 7, 8, 10
+Ethics == 6, 7, 8, 10
+
+
+url for chapter  seagullpublications.com/archives/ebooks/manuscript_no/chapter_title
